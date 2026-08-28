@@ -1,6 +1,5 @@
 //! tests/health_check.rs
 
-use actix_web::dev::Server;
 use std::net::TcpListener;
 
 // `tokio::test` is the testing equivalent of `tokio::main`.
